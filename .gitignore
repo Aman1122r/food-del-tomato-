@@ -1,0 +1,14 @@
+# Node modules
+node_modules
+
+# Environment files
+.env
+
+# Build / dist
+dist
+build
+
+# OS / temp files
+*.lnk
+*.tmp
+Desktop.ini
