@@ -24,7 +24,7 @@ const PlaceOrder = () => {
     const value = event.target.value;
     setData((data) => ({ ...data, [name]: value }));
   };
-  const placeOrder = async (event) => {
+  const PlaceOrder = async (event) => {
     event.preventDefault();
     let orderItems = [];
     food_list.map((item) => {
