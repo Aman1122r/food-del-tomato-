@@ -3,11 +3,9 @@ import Navbar from "./Components/Navbar/Navbar";
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/home/Home";
 import Cart from "./pages/Cart/Cart";
-<<<<<<< HEAD
+
 import PlaceOrder from "./pages/placeorder/PlaceOrder";
-=======
-import PlaceOrder from "./pages/PlaceOrder/PlaceOrder";
->>>>>>> b7e9f35 (update frontend fixes)
+
 import Footer from "./Components/Footer/Footer";
 import ExploreMenu from "./Components/ExploreMenu/ExploreMenu";
 import AppDownload from "./Components/AppDownload/AppDownload";
